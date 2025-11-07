@@ -1,254 +1,1024 @@
 {
   "mcq_questions": [
     {
-      "question": "The product of two numbers is 12,320 and their HCF is 28. Find their LCM.",
-      "options": { "A": "420", "B": "440", "C": "460", "D": "480" },
-      "correct_option": "B"
-    },
-    {
-      "question": "The average of 25 numbers is 36. Later it was found that one number 45 was wrongly taken as 15. What is the correct average?",
-      "options": { "A": "36.8", "B": "37.2", "C": "37.8", "D": "38.4" },
-      "correct_option": "C"
-    },
-    {
-      "question": "If 5% of A = 10% of B = 20% of C, then A : B : C is:",
-      "options": { "A": "1:2:4", "B": "2:4:5", "C": "4:2:1", "D": "20:10:5" },
-      "correct_option": "A"
-    },
-    {
-      "question": "The sum of two numbers is 1215 and their HCF is 81. Find the possible LCM.",
-      "options": { "A": "2430", "B": "2754", "C": "2880", "D": "3240" },
-      "correct_option": "B"
-    },
-    {
-      "question": "The difference between the squares of two consecutive odd integers is 56. Find the integers.",
-      "options": { "A": "27,29", "B": "29,31", "C": "31,33", "D": "33,35" },
-      "correct_option": "C"
-    },
-    {
-      "question": "The cube root of a number lies between 11 and 12. The number is closest to:",
-      "options": { "A": "1360", "B": "1450", "C": "1520", "D": "1570" },
+      "question": "Which of the following are the objectives of the Beti Bachao Beti Paddao scheme? \n1. Prevent female infanticide \n2. Prevent child marriages \n3. Ensure protection of a girl child \n4.Ensure education of a girl child ",
+      "options": {
+        "A": "1, 3, 4",
+        "B": "2, 3, 4",
+        "C": "3 and 4",
+        "D": "All"
+      },
       "correct_option": "D"
     },
     {
-      "question": "A number is mistakenly divided by 2 instead of being multiplied by 2. The result is 48. What is the correct answer?",
-      "options": { "A": "96", "B": "192", "C": "120", "D": "144" },
-      "correct_option": "B"
-    },
-    {
-      "question": "If 30% of x = 0.25 of y = 1/5 of z, then x:y:z is:",
-      "options": { "A": "10:12:15", "B": "12:10:15", "C": "15:12:10", "D": "15:10:12" },
-      "correct_option": "A"
-    },
-    {
-      "question": "The average age of 6 students is 20 years. If one new student joins, the average becomes 21. Find the age of the new student.",
-      "options": { "A": "25", "B": "26", "C": "27", "D": "28" },
-      "correct_option": "C"
-    },
-    {
-      "question": "If the HCF of 2 numbers is 21 and their product is 2079, find their LCM.",
-      "options": { "A": "81", "B": "93", "C": "99", "D": "107" },
-      "correct_option": "C"
-    },
-    {
-      "question": "The ratio of two numbers is 3:4. If their LCM is 180, find the numbers.",
-      "options": { "A": "45,60", "B": "30,40", "C": "60,80", "D": "15,20" },
-      "correct_option": "A"
-    },
-    {
-      "question": "Divide ₹600 into two parts such that the ratio of their squares is 9:16.",
-      "options": { "A": "₹200, ₹400", "B": "₹225, ₹375", "C": "₹240, ₹360", "D": "₹250, ₹350" },
-      "correct_option": "C"
-    },
-    {
-      "question": "If a:b = 2:3 and b:c = 4:5, then a:b:c = ?",
-      "options": { "A": "8:12:15", "B": "6:8:10", "C": "2:4:5", "D": "12:16:20" },
-      "correct_option": "A"
-    },
-    {
-      "question": "The mean proportional between 18 and 32 is:",
-      "options": { "A": "20", "B": "22", "C": "24", "D": "25" },
-      "correct_option": "C"
-    },
-    {
-      "question": "If (x+3):(x+5) = 5:6, then x = ?",
-      "options": { "A": "7", "B": "8", "C": "9", "D": "10" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A and B invest ₹5000 and ₹6000 respectively. After 6 months, A invests ₹2000 more. At the end of the year, the total profit is ₹7800. Find A’s share.",
-      "options": { "A": "3600", "B": "3900", "C": "4200", "D": "4400" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A invests ₹4500 for 4 months, B invests ₹6000 for 6 months. Find the ratio of their profits.",
-      "options": { "A": "3:4", "B": "2:3", "C": "4:5", "D": "9:12" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A, B and C invest in the ratio 5:6:8. If the total profit is ₹19,500, what is B’s share?",
-      "options": { "A": "5000", "B": "6000", "C": "6500", "D": "7000" },
-      "correct_option": "B"
-    },
-    {
-      "question": "P invests ₹6000 for 12 months, Q invests ₹8000 for 6 months, and R invests ₹5000 for 9 months. Find the ratio of profits.",
-      "options": { "A": "12:8:5", "B": "6:4:3", "C": "9:6:5", "D": "8:6:5" },
-      "correct_option": "A"
-    },
-    {
-      "question": "X and Y start a business with capitals ₹12,000 and ₹16,000. After 8 months, Y withdraws his money. If the total profit is ₹26,000, find Y’s share.",
-      "options": { "A": "8000", "B": "9000", "C": "10,000", "D": "11,000" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A can do a piece of work in 18 days and B in 24 days. They work together for 6 days, then A leaves. In how many more days will B finish the work?",
-      "options": { "A": "8", "B": "9", "C": "10", "D": "12" },
-      "correct_option": "A"
-    },
-    {
-      "question": "If 12 men can do a work in 18 days, how many men will do it in 8 days?",
-      "options": { "A": "24", "B": "26", "C": "27", "D": "28" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A can complete a work in 20 days, B in 25 days. If they work together for 5 days, then A leaves, how long will B take to finish the remaining work?",
-      "options": { "A": "8", "B": "9", "C": "10", "D": "11" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A alone can do a work in 30 days, B alone in 40 days. They work together for 10 days, then A leaves. In how many more days will B finish?",
-      "options": { "A": "12", "B": "15", "C": "18", "D": "20" },
-      "correct_option": "C"
-    },
-    {
-      "question": "If 15 women can complete a job in 12 days, in how many days can 20 women complete the same job?",
-      "options": { "A": "8", "B": "9", "C": "10", "D": "11" },
-      "correct_option": "C"
-    },
-    {
-      "question": "Pipe A can fill a tank in 15 hours, Pipe B in 20 hours. Both are opened together, but after 4 hours B is closed. In how many more hours will A fill the remaining tank?",
-      "options": { "A": "6", "B": "7", "C": "8", "D": "9" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A cistern can be filled by a pipe in 12 hours and emptied by a waste pipe in 18 hours. If both are opened together, find the time to fill the cistern.",
-      "options": { "A": "36", "B": "30", "C": "24", "D": "20" },
-      "correct_option": "B"
-    },
-    {
-      "question": "Two pipes can fill a cistern in 24 and 30 hours respectively. A third pipe can empty it in 40 hours. If all three are opened, how long will it take to fill?",
-      "options": { "A": "20", "B": "24", "C": "26", "D": "28" },
-      "correct_option": "C"
-    },
-    {
-      "question": "Pipe A can fill a tank in 6 hours, Pipe B can empty it in 8 hours. If both are opened, the tank will be filled in:",
-      "options": { "A": "24", "B": "25", "C": "26", "D": "28" },
-      "correct_option": "A"
-    },
-    {
-      "question": "Pipe A fills a cistern in 8 hours, Pipe B fills in 12 hours. Both opened together, but 2 hours before the cistern is full, B is closed. Find total time.",
-      "options": { "A": "4", "B": "5", "C": "6", "D": "7" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A train running at 60 km/h crosses a pole in 9 seconds. Find the length of the train.",
-      "options": { "A": "120m", "B": "140m", "C": "150m", "D": "160m" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A 120m long train crosses a platform of length 180m in 18 seconds. Find speed.",
-      "options": { "A": "60 km/h", "B": "72 km/h", "C": "80 km/h", "D": "90 km/h" },
-      "correct_option": "B"
-    },
-    {
-      "question": "Two trains of lengths 150m and 180m are running in opposite directions at 54 km/h and 72 km/h. Find the time to cross each other.",
-      "options": { "A": "8s", "B": "9s", "C": "10s", "D": "12s" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A car covers 120 km at 40 km/h and returns at 60 km/h. Find average speed.",
-      "options": { "A": "48 km/h", "B": "50 km/h", "C": "52 km/h", "D": "54 km/h" },
-      "correct_option": "A"
-    },
-    {
-      "question": "A boat can travel 15 km downstream in 3 hours and the same distance upstream in 5 hours. Find speed of boat in still water.",
-      "options": { "A": "3 km/h", "B": "4 km/h", "C": "5 km/h", "D": "6 km/h" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A train 360m long crosses a bridge of length 140m in 20 seconds. Find speed.",
-      "options": { "A": "72 km/h", "B": "81 km/h", "C": "90 km/h", "D": "108 km/h" },
-      "correct_option": "C"
-    },
-    {
-      "question": "Two boats travel from A to B downstream in 4 hours. One returns in 5 hours, other in 6 hours. Ratio of their speeds in still water?",
-      "options": { "A": "4:5", "B": "5:6", "C": "6:7", "D": "7:8" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A man rows 12 km downstream in 3h and upstream in 4h. Find speed of stream.",
-      "options": { "A": "0.5", "B": "1", "C": "1.5", "D": "2" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A train crosses a 200m platform in 25s and a pole in 15s. Find length of train.",
-      "options": { "A": "100m", "B": "120m", "C": "150m", "D": "180m" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A train 180m long crosses another 120m long train running in opposite directions in 9s. Their speeds are 60 and 48 km/h. Verify time.",
-      "options": { "A": "8s", "B": "9s", "C": "10s", "D": "11s" },
-      "correct_option": "B"
-    },
-    {
-      "question": "A boat travels 30 km downstream in 2h, and the same distance upstream in 3h. Find the speed of boat in still water.",
-      "options": { "A": "10", "B": "11", "C": "12", "D": "13" },
-      "correct_option": "C"
-    },
-    {
-      "question": "Two trains, 100m and 120m long, moving in same direction at 36 and 54 km/h. Time taken to cross each other?",
-      "options": { "A": "28s", "B": "30s", "C": "32s", "D": "36s" },
-      "correct_option": "C"
-    },
-    {
-      "question": "A 200m train crosses a platform twice its length in 30s. Find speed.",
-      "options": { "A": "36", "B": "48", "C": "60", "D": "72" },
+      "question": "Which festival was organized on the theme of Beti Bachao Beti Padhao?",
+      "options": {
+        "A": "Kala Mahotsava",
+        "B": "Mala Utsav",
+        "C": "Jana Utsav",
+        "D": "Kala Utsav"
+      },
       "correct_option": "D"
     },
     {
-      "question": "A man rows 30 km downstream in 2h, same distance upstream in 3h. Find speed of stream.",
-      "options": { "A": "2", "B": "3", "C": "4", "D": "5" },
+      "question": "Which of the following is a nodal ministry for Beti Bachao Beti Padhao scheme?",
+      "options": {
+        "A": "Ministry of Home Affairs",
+        "B": "Ministry of Health and Family Welfare",
+        "C": "Ministry of Women and Child Development",
+        "D": "Niti Ayog"
+      },
       "correct_option": "C"
     },
     {
-      "question": "A train crosses a pole in 15s and a bridge 300m in 39s. Find length of train.",
-      "options": { "A": "120", "B": "150", "C": "180", "D": "200" },
+      "question": "Who gave the slogan ‘Beti Bachao Beti Padhao’?",
+      "options": {
+        "A": "Women and Child Development Minister Smriti Irani",
+        "B": "Prime Minister Sri Narendra Modi",
+        "C": "Home Minister Amit Saha",
+        "D": "None of these"
+      },
       "correct_option": "B"
     },
     {
-      "question": "In what ratio must water be mixed with milk costing ₹60/litre to get mixture worth ₹45/litre?",
-      "options": { "A": "1:2", "B": "1:3", "C": "2:3", "D": "3:4" },
+      "question": "When did ‘Beti Bachao Beti Padhao abhiyan’ start?",
+      "options": {
+        "A": "22 January 2016",
+        "B": "22 January 2015",
+        "C": "22 January 2018",
+        "D": "22 January 2022"
+      },
       "correct_option": "B"
     },
     {
-      "question": "Two varieties of rice at ₹30/kg and ₹40/kg are mixed to get mixture at ₹36/kg. Find ratio.",
-      "options": { "A": "1:2", "B": "2:3", "C": "3:2", "D": "4:1" },
+      "question": "Which is the National Girl Child Day?",
+      "options": {
+        "A": "12 January",
+        "B": "24 January",
+        "C": "14 January",
+        "D": "10 January"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "‘Beti Bachao Beti Padhao’ was launched in which state?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Haryana",
+        "C": "Punjab",
+        "D": "Karnataka"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who designed the logo of ‘Beti Bachao Beti Padhao’ abhiyan?",
+      "options": {
+        "A": "Sri Narendra Modi",
+        "B": "Dr Manmohan Singh",
+        "C": "Shri A J Raghuvendra",
+        "D": "None of these"
+      },
       "correct_option": "C"
     },
     {
-      "question": "A vessel has 60 litres of milk and water in ratio 3:1. How much water must be added to make ratio 3:2?",
-      "options": { "A": "10", "B": "12", "C": "15", "D": "20" },
+      "question": "Customary Village Councils (CVCs) are",
+      "options": {
+        "A": "State sponsored organizations for local administration",
+        "B": "Privately managed administrative bodies with government financial support",
+        "C": "Traditional, non-state and unofficial local bodies participating in rural administration",
+        "D": "None of these"
+      },
       "correct_option": "C"
     },
     {
-      "question": "In a mixture of 40 litres, the ratio of milk to water is 7:3. How much water must be added to make it 3:2?",
-      "options": { "A": "5", "B": "6", "C": "8", "D": "10" },
-      "correct_option": "B"
-    },
-    {
-      "question": "Tea worth ₹100/kg is mixed with tea worth ₹150/kg to get mixture at ₹120/kg. Find ratio.",
-      "options": { "A": "2:3", "B": "3:2", "C": "1:2", "D": "2:1" },
+      "question": "‘Khap Panchayat’ is an example of",
+      "options": {
+        "A": "Traditional and non-official local institution participating in village administration",
+        "B": "Government sponsored traditional private establishments of village administration",
+        "C": "A form of government-approved judicial institution functioning in Indian villages",
+        "D": "None of these"
+      },
       "correct_option": "A"
+    },
+    {
+      "question": "One of the following started promoting Self Help Groups (SHGs) since 1992 with primary focus on empowerment of women and marginalized sections of the society.",
+      "options": {
+        "A": "Reserve Bank of India (RBI)",
+        "B": "Regional Rural Banks",
+        "C": "National Bank for Agriculture and Rural Development (NABARD)",
+        "D": "Village Cooperative Societies"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following problems faced by the Self Help Groups (SHGs)?",
+      "options": {
+        "A": "Inadequate financial assistance",
+        "B": "Poor financial management",
+        "C": "Lack of stability and unity",
+        "D": "All of these"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following committee connected with matters relating to Panchayat Raj system?",
+      "options": {
+        "A": "Balwant Rai Mehta Committee",
+        "B": "Ashok Mehta Committee",
+        "C": "G V K Rao Committee",
+        "D": "All of these"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following Constitutional Amendment Act provides for the establishment of Panchayats and Grama Sabha as the foundation of Panchayat Raj System?",
+      "options": {
+        "A": "73rd Constitutional Amendment Act, 1990",
+        "B": "74th Constitutional Amendment Act, 1992",
+        "C": "73rd Constitutional Amendment Act, 1992",
+        "D": "74th Constitutional Amendment Act, 1994"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Panchayat Raj is a",
+      "options": {
+        "A": "Three-tier system",
+        "B": "Two-tier system",
+        "C": "Single layer system",
+        "D": "None of these"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Not less than ________ of the total number of seats to be reserved for women, further not less than ________ of the total number of offices for chairperson at all levels of the panchayat to be reserved for women.",
+      "options": {
+        "A": "One-third; One-third",
+        "B": "One-third; Two-third",
+        "C": "Two-third; One-third",
+        "D": "One-third; One-fourth"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the Articles of Indian Constitution makes provisions for disqualifications from the panchayats membership?",
+      "options": {
+        "A": "Article 243B",
+        "B": "Article 243F",
+        "C": "Article 243J",
+        "D": "Article 243K"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Minimum age prescribed to contest in Panchayat elections is",
+      "options": {
+        "A": "25 years",
+        "B": "30 years",
+        "C": "21 years",
+        "D": "18 years"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Article ______ enshrines the provisions with respect to elections of the Panchayats.",
+      "options": {
+        "A": "Article 243O",
+        "B": "Article 243F",
+        "C": "Article 243J",
+        "D": "Article 243K"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Article ______ bars the courts to interfere in the Panchayat Matters.",
+      "options": {
+        "A": "Article 243O",
+        "B": "Article 243F",
+        "C": "Article 243J",
+        "D": "Article 243K"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "PESA Act means",
+      "options": {
+        "A": "Panchayat Extension and Stipulated Activities Act",
+        "B": "Panchayats Extension to Scheduled Area Act",
+        "C": "People Empowerment and Skill Augmentation Act",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who is recognized as ‘Father of Rural Development’ in India?",
+      "options": {
+        "A": "S K Dey",
+        "B": "Rabindranath Tagore",
+        "C": "Raja Ram Mohan Roy",
+        "D": "Sardar Vallabha Bhai Patel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What is the Swachh Bharat Cess (SBC) rate levied and collected in accordance with the provisions of Chapter VI of the Finance Act, 2015?",
+      "options": {
+        "A": "1.5 % of the value of taxable service",
+        "B": "0.75 % of the value of taxable service",
+        "C": "0.5 % of the value of taxable service",
+        "D": "0.25 % of the value of taxable service"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which one of the following committees is not connected with Panchayat Raj system?",
+      "options": {
+        "A": "Drafting Committee",
+        "B": "Balwant Rai Mehta Committee",
+        "C": "Ashok Mehta Committee",
+        "D": "GVK Rao Committee"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Balwant Rai Mehta Committee for Panchayat Raj was appointed in the year",
+      "options": {
+        "A": "1968",
+        "B": "1947",
+        "C": "1950",
+        "D": "1957"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Who is called as the ‘Father of Panchayat Raj System’ in India?",
+      "options": {
+        "A": "L M Singhvi",
+        "B": "Ahsok Mehta",
+        "C": "Balwant Rai Mehta",
+        "D": "G V K Rao"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which is the primary and permanent body of Panchayat Raj system?",
+      "options": {
+        "A": "Standing Committee",
+        "B": "Gram Sabha",
+        "C": "Khap Panchayat",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who holds a record book of details like the map of the land, crops grown there, and owner’s name?",
+      "options": {
+        "A": "District Collector",
+        "B": "Patwari (Land Measurer)",
+        "C": "Panchayat President",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Sarva Shiksha Abhiyan (SSA) is a flagship programme of the Government of India to attain",
+      "options": {
+        "A": "Quality Higher Education",
+        "B": "Proficiency in Technical Education",
+        "C": "Skill and Expertise in Medical Education",
+        "D": "Universal Elementary Education (UEE)"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Right to Education Act (RTE) came into force on",
+      "options": {
+        "A": "1 April 2010",
+        "B": "22 April 2010",
+        "C": "11 April 2010",
+        "D": "1 April 2018"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "‘Padhe Bharat Badhe Bharat’ is a sub-programme of",
+      "options": {
+        "A": "Holistic Education",
+        "B": "New Education Policy (NEP)",
+        "C": "National Education Policy (NEP)",
+        "D": "Sarva Shiksha Abhiyan"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "The NIPUN Bharat Mission was launched as part of",
+      "options": {
+        "A": "Sarva Shiksha Abhiyan in 2021",
+        "B": "Samagra Shiksha Abhiyan in 2021",
+        "C": "National Education Policy (NEP) in 2021",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "A Government of India initiative launched by Dr. Manmohan Singh to create a literate society through teaching-learning programmes for non-literates and neo-literates aged 15 and above is called as",
+      "options": {
+        "A": "Samagra Shiksha Abhiyan",
+        "B": "Sarva Shiksha Abhiyan",
+        "C": "Madhyamika Shiksha Abhiyan",
+        "D": "Saakshar Bharat"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Who was made as the brand ambassador of ‘Beti Bachao Beti Padhao’ initiative?",
+      "options": {
+        "A": "Olympian Sakshi Mallik",
+        "B": "Olympian Neeraj Chopra",
+        "C": "Olympian Vijendra Kumar",
+        "D": "Olympian Abhinav Bindra"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who started ‘Selfie With Daughter’ initiative?",
+      "options": {
+        "A": "Narendra Modi",
+        "B": "Dr Manmohan Singh",
+        "C": "Sunil Jaglan",
+        "D": "Smt. Smriti Irani"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Indian healthcare has evolved over the past three decades and is currently at a critical juncture to achieve the 3 As of healthcare; where 3 As mean:",
+      "options": {
+        "A": "Affordability, Accountability, Accuracy",
+        "B": "Accessibility, Availability, Accountability",
+        "C": "Affordability, Accessibility and Availability",
+        "D": "Accessibility, Authenticity, Accountability"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "‘Ayushman Bharat’ initiative aiming at Universal Health Coverage was launched in",
+      "options": {
+        "A": "2021",
+        "B": "2015",
+        "C": "2018",
+        "D": "2022"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "National Health Protection Mission will have a defined benefit cover per family per year of",
+      "options": {
+        "A": "Rs 3 lakhs",
+        "B": "Rs 10 lakhs",
+        "C": "Rs 5 lakhs",
+        "D": "Rs 1.5 lakhs"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "India’s largest National Health Protection Scheme has been implemented under the name",
+      "options": {
+        "A": "Samman Bharat",
+        "B": "Ayushman Bharat",
+        "C": "Adarsh Bharat",
+        "D": "Nirmaan Bharat"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who will head the Ayushman Bharat National Health Protection Mission Council (AB-NHPMC)?",
+      "options": {
+        "A": "Prime Minister",
+        "B": "Minister of Health and Family Welfare",
+        "C": "Minister of Ayush",
+        "D": "Chairman of NITI Aayog"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "The states and UTs are required to set up SHA for the implementation of the scheme. SHA stands for",
+      "options": {
+        "A": "State Health Agency",
+        "B": "Society Health Agency",
+        "C": "Strategic Health Agency",
+        "D": "Social Health Agency"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "The Ayushman Bharat aims to target about ________ beneficiaries under the scheme.",
+      "options": {
+        "A": "100 crore",
+        "B": "10.74 crore",
+        "C": "10.47 crore",
+        "D": "10.65 crore"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "The government has partnered with which entity to make the process cashless under Ayushman Bharat?",
+      "options": {
+        "A": "Paytm",
+        "B": "Reliance",
+        "C": "NITI Aayog",
+        "D": "None of these"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Under the Ayushman Bharat programme, government has announced two major initiatives namely National Health Protection Scheme and Health and Wellness Centre as the two flagship programmes with the aim to build New India by which year?",
+      "options": {
+        "A": "2022",
+        "B": "2021",
+        "C": "2030",
+        "D": "2047"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "With reference to ‘Ayushman Bharat’ initiative, which of the following statements is correct?\n 1. Under the Ayushman Bharat programme, government has announced two major initiatives namely National Health Protection Scheme and Health and Wellness Centre as the two flagship programme with the aim to build New India \n2. The expenses incurred in this scheme are shared between the Centre and the States in 60:40 ratio.",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following is linked with ‘Ayushman Bharat’ yojana?",
+      "options": {
+        "A": "ABHA",
+        "B": "ASHA",
+        "C": "USHA",
+        "D": "None of these"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "ABHA stands for _______ in Ayushman Bharat.",
+      "options": {
+        "A": "All Body Health Assessment",
+        "B": "Ayushman Bharat Health Account",
+        "C": "Ayushman Bharat Health Assessment",
+        "D": "Agreement of Body and Health Assessment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who is eligible for ABHA ID card?",
+      "options": {
+        "A": "All Indian Citizens",
+        "B": "Citizens with annual income below Rs. 5 lakhs",
+        "C": "Citizens with BPL Card facility",
+        "D": "SC, ST and EWS of the society"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "NDHM means ________.",
+      "options": {
+        "A": "National Direct Health Medication",
+        "B": "National Digital Health Monitoring",
+        "C": "National Doctors and Health Mentors",
+        "D": "National Digital Health Mission"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "With reference to Ayushman Bharat Pradhan Mantri Jana Arogya Yojana (AB-PMJAY), consider the following statements:\n1. It has been launched to achieve Universal Health Coverage.\n2. It is the world’s largest health insurance scheme fully financed by the government and the cost of implementation is shared between the Centre and the States in 60:40 ratio.\n3. It is applicable to the people aged 60 and above only.",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 2 only",
+        "C": "1 and 3 only",
+        "D": "2 and 3 only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "When was the ‘Swachh Bharat Abhiyan’ initiated?",
+      "options": {
+        "A": "2016",
+        "B": "2015",
+        "C": "2018",
+        "D": "2014"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "‘Swachh Bharat Mission’ (Clean India Campaign) aims at:\n1. Eliminate open defecation \n2. Solid Waste Management",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Neither 1 nor 2",
+        "D": "Both 1 and 2"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "‘Swachh Bharat Abhiyan’ is a restructured version of which programme?",
+      "options": {
+        "A": "‘Nirmal Bharat Abhiyan’, 2009",
+        "B": "Clean India Campaign, 2009",
+        "C": "Clean City Campaign, 2009",
+        "D": "None of these"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Mahatma Gandhi’s 150th birth anniversary was celebrated on",
+      "options": {
+        "A": "2 October 2019",
+        "B": "2 October 2020",
+        "C": "2 October 2021",
+        "D": "2 October 2018"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "The ‘Swachh Bharat Abhiyan’ tagline ‘Ek Kadam Swachhata Ki Aur’ was given by",
+      "options": {
+        "A": "Shri Anant Khasbardar of Kolhapur, Maharashtra",
+        "B": "Sri Narendra Modi",
+        "C": "M S Swaminathan",
+        "D": "Ms. Bhagyasri Sheth of Rajkot, Gujarat"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Who designed the logo of ‘Swachh Bharat Abhiyan’?",
+      "options": {
+        "A": "Shri Anant Khasbardar of Kolhapur, Maharashtra",
+        "B": "Sri Narendra Modi",
+        "C": "M S Swaminathan",
+        "D": "Ms. Bhagyasri Sheth of Rajkot, Gujarat"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What is the budget amount fixed for Swachh Bharat Mission – Urban 2.0 (2021–2026)?",
+      "options": {
+        "A": "100 crores",
+        "B": "10.4 thousand crores",
+        "C": "75.1 thousand crores",
+        "D": "1.41 lakh crores"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Which civil servant led the ‘Swachh Bharat Mission’?",
+      "options": {
+        "A": "Hari Chandana Dasari",
+        "B": "Parameswaran Iyer",
+        "C": "Renu Raj",
+        "D": "Kunwar Bai Yadav"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "At a rally in Champaran the Prime Minister called the campaign ‘Satyagraha se Swachhagrah’ in reference to Gandhi’s Champaran Satyagraha launched on",
+      "options": {
+        "A": "13 April 1919",
+        "B": "10 April 1916",
+        "C": "12 March 1931",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "In which place was the ‘Clean India Mission’ (Swachh Bharat Abhiyan) officially launched?",
+      "options": {
+        "A": "Patna, Bihar",
+        "B": "Rajghat, New Delhi",
+        "C": "Lucknow, UP",
+        "D": "Kurukshetra, Haryana"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "How many sub-missions are there in ‘Swachh Bharat Abhiyan’?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "Six",
+        "D": "Three"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "When was the Nirmal Bharat Abhiyan launched?",
+      "options": {
+        "A": "2013",
+        "B": "2009",
+        "C": "2020",
+        "D": "2012"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following is/are objectives of ‘Swachh Bharat Abhiyan’?",
+      "options": {
+        "A": "To eliminate open defecation",
+        "B": "Eradication of manual scavenging",
+        "C": "Effective solid waste management",
+        "D": "All of these"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Which is the Twitter hashtag used for ‘Swachh Bharat Mission’?",
+      "options": {
+        "A": "#MyIncredibleIndia",
+        "B": "#MyCleanIndia",
+        "C": "#MyNeatIndia",
+        "D": "#MySmartIndia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "On which day does India observe World Toilet Day?",
+      "options": {
+        "A": "14 August",
+        "B": "19 November",
+        "C": "13 February",
+        "D": "15 September"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which is the first city in our country free of manual scavenging?",
+      "options": {
+        "A": "Alwar",
+        "B": "Bharuch",
+        "C": "Trichy",
+        "D": "Jaipur"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which is the cleanest village of India?",
+      "options": {
+        "A": "Mawlynnong",
+        "B": "Punsari",
+        "C": "Dharani",
+        "D": "Ballia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What is the tagline of Swachh Bharat Abhiyan?",
+      "options": {
+        "A": "One India, Clean India",
+        "B": "Swachh Bharat Mera Bharat",
+        "C": "Ek Kadam Swachhata Ki Ore",
+        "D": "None of these"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following committees recommended the Panchayat Raj system in India?",
+      "options": {
+        "A": "Drafting Committee",
+        "B": "Balwant Rai Mehta Committee",
+        "C": "Ashok Mehta Committee",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following system is established on the basis of direct election?",
+      "options": {
+        "A": "Panchayat Raj",
+        "B": "Block Committee",
+        "C": "Zilla Parishad",
+        "D": "All of these"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which Article of the Indian Constitution is related to Panchayati Raj?",
+      "options": {
+        "A": "Article 324",
+        "B": "Article 326",
+        "C": "Article 194",
+        "D": "Article 243"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "What was the main purpose behind bringing the Panchayati Raj system to India?",
+      "options": {
+        "A": "Decentralization of political power to the common public in villages",
+        "B": "Prevent criminalization of politics",
+        "C": "Development of villages",
+        "D": "To reduce election expenses"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which schedule was added to the Constitution by the 73rd Constitutional Amendment?",
+      "options": {
+        "A": "8th Schedule",
+        "B": "11th Schedule",
+        "C": "12th Schedule",
+        "D": "10th Schedule"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which statement is not correct regarding 'Gram Sabha'?",
+      "options": {
+        "A": "It consists of persons registered in the electoral rolls of a village within the Panchayat area",
+        "B": "It is a village assembly consisting of all registered voters in the Panchayat area",
+        "C": "Its power is determined by the Central Government",
+        "D": "Its powers and functions at the village level are like a state legislature at the state level"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which statement is true about Panchayati Raj?\n1. Its powers have been determined by the State Legislature\n2. Minimum age should be 21 years to contest the election at the panchayat level\n3. Election of the Panchayati Raj institutions is conducted under the guidance of the State Election Commission\n4. It is a three-tier system with panchayats at the lower level, panchayats samiti at intermediaty or mandal level and Zilla Parishad at district level ",
+      "options": {
+        "A": "1 only",
+        "B": "2 and 4 only",
+        "C": "1 and 3 only",
+        "D": "All of these are true"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "How many posts are reserved for women at all levels in the Panchayati Raj system?",
+      "options": {
+        "A": "One–third",
+        "B": "One-fourth",
+        "C": "Two-third",
+        "D": "No reservation for women"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "‘Swachha Bharat Swachha Vidyalaya’ (SBSV) campaign with the objective of cleanliness in schools is run by which Ministry?",
+      "options": {
+        "A": "Environment and Forest",
+        "B": "Human Resource Development",
+        "C": "Agriculture",
+        "D": "Urban Development"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What is the primary goal and focus of the Swachha Bharat Mission?",
+      "options": {
+        "A": "Clean India",
+        "B": "Digital India",
+        "C": "Smart India",
+        "D": "Skill India"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "When was the ‘Skill India’ or ‘National Skills Development Mission of India’ launched?",
+      "options": {
+        "A": "15 July 2018",
+        "B": "15 August 2016",
+        "C": "15 July 2015",
+        "D": "None of these"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following countries entered into a partnership in the Skill India programme?",
+      "options": {
+        "A": "Bhutan",
+        "B": "Russia",
+        "C": "USA",
+        "D": "UK"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "SANKALP stands for:",
+      "options": {
+        "A": "Skill Awareness and Knowledge Awareness for Loan Processing Programme",
+        "B": "Skill Acquisition and Knowledge Awareness for Livelihood Promotion Programme",
+        "C": "Social Acquisition and Knowledge Acquisition for Livelihood Promotion Programme",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Skill India programmes are managed by:",
+      "options": {
+        "A": "National Skills Development Corporation of India (NSDC)",
+        "B": "Urban Development Corporation of India",
+        "C": "Labour Unions",
+        "D": "None of these"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Skill India Mission is associated with the Ministry of:",
+      "options": {
+        "A": "Labour and Family Welfare",
+        "B": "Human Resource Development",
+        "C": "Skill Development and Entrepreneurship",
+        "D": "NITI Aayog"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following is an initiative of Skill India Mission?",
+      "options": {
+        "A": "Food for Life Programme",
+        "B": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "C": "Right to Education",
+        "D": "Grameen Sadak Yojana"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements about NRLM: \n1. It promotes self-employment and organization of rural poor. \n2. It is supported by the World Bank with a credit of $1 Billion.",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "None of these"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "NRLM – Ajeevika is launched by which Ministry?",
+      "options": {
+        "A": "Labour and Family Welfare",
+        "B": "Rural Development",
+        "C": "Urban Development",
+        "D": "Human Resource Development"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "This is a platform for sharing experiences of SHGs and extends mutual support to improve overall performance.",
+      "options": {
+        "A": "Cluster Level Forum",
+        "B": "Community Level Forum",
+        "C": "Common Leave Facility",
+        "D": "None of these"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "NRLM follows which strategy?",
+      "options": {
+        "A": "Supply Based Production Strategy",
+        "B": "Demand Driven Strategy",
+        "C": "Income Driven Strategy",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "The World Bank in its World Development Report (2014) termed which government initiative as a 'stellar example of rural development'?\n Which one of the following initiative of the Central Government is termed as a ‘stellar example of rural development’ by the World Bank in its World Development Report, 2014?",
+      "options": {
+        "A": "NRLM",
+        "B": "Rural Livelihood Mission",
+        "C": "NREGA, 2005",
+        "D": "None of these"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "NREGA aims to enhance livelihood security in rural areas by providing at least how many days of wage employment in a financial year?",
+      "options": {
+        "A": "180",
+        "B": "200",
+        "C": "150",
+        "D": "100"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Under MNREGA, who is mainly responsible as key functionary in implementing the scheme at village level?",
+      "options": {
+        "A": "Village Secretary",
+        "B": "Gram Rozgar Sahayak",
+        "C": "Gramin Vikas Adhikari",
+        "D": "None of these"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which is the first state to employ the differently-abled in MNREGA?",
+      "options": {
+        "A": "Kerala",
+        "B": "Tamil Nadu",
+        "C": "Gujarat",
+        "D": "Karnataka"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "For how many years is the registration of job card under MNREGA valid?",
+      "options": {
+        "A": "Five",
+        "B": "Four",
+        "C": "Ten",
+        "D": "Lifetime"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who selects the Social Audit Committee under MNREGA?",
+      "options": {
+        "A": "Members of Zilla Panchayat",
+        "B": "District Collector",
+        "C": "Grama Sabha",
+        "D": "Minister for Rural Development"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "The Union Government increased workdays from 100 to 150 days per year under MGNREGA in which state?",
+      "options": {
+        "A": "Karnataka",
+        "B": "Tamil Nadu",
+        "C": "Kerala",
+        "D": "Bihar"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "In the cash benefits transferred last year under the Direct Benefits Transfer Scheme, which head had the largest DBT transfers?",
+      "options": {
+        "A": "MNREGA",
+        "B": "LPG Subsidy",
+        "C": "Fertilizer Subsidy",
+        "D": "Farmer compensation for natural calamities"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the following is/are true regarding Pradhan Mantri Awaas Yojana — Gramin?\n1. Cost of unit assistance shared between Centre and States 75:25 in plains.\n2. Beneficiary entitled to 90 days of unskilled labour from MGNREGA.",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "Both 1 and 2",
+        "D": "Neither 1 nor 2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "The NDA Government decided to increase the number of workdays under MGNREGA from 100 to how many in drought-affected areas?",
+      "options": {
+        "A": "120",
+        "B": "200",
+        "C": "150",
+        "D": "280"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "National Mission for a Green India is merged with which programme?",
+      "options": {
+        "A": "National River Conservation Scheme",
+        "B": "Swachh Bharat Abhiyan",
+        "C": "National Afforestation Programme",
+        "D": "MNREGA"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements about MGNREGS are correct?\n1. MGNREGS fulfills constitutional rights in India.\n2. It is mainly implemented by gram panchayats.\n3. In areas affected by unseasonal rain and hailstorms, workdays may increase to 200 days.",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 3 only",
+        "C": "2 and 3 only",
+        "D": "1 and 2 only"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following can help in the development of human resource?",
+      "options": {
+        "A": "Skill development",
+        "B": "Improving literacy and access to information",
+        "C": "Training",
+        "D": "All of these"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "Rural development aims at:\n1. Improving rural health facilities\n2. Reducing poverty\n3. Development of rural infrastructure",
+      "options": {
+        "A": "1 only",
+        "B": "2 only",
+        "C": "1 and 3 only",
+        "D": "1, 2 and 3"
+      },
+      "correct_option": "D"
     }
   ]
 }
